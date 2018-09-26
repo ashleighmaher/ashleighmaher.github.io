@@ -1339,7 +1339,10 @@ body {
   transition: box-shadow 0.3s;
 }
 .cid-r4MKdkBvkN .card-title P {
-  color: #ff3366;
+  color: #7f1933;
+}
+.cid-r4MKdkBvkN .card-title {
+  color: #7f1933;
 }
 .cid-r4MjkAlHgl {
   padding-top: 30px;
