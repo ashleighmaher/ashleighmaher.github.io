@@ -37,7 +37,7 @@
     "uniqCompNum": 6,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126940682-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126940682-1');\r\n</script>\r\n"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126940682-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126940682-1');\r\n</script>\r\n<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='2d6daf9612a84c7b3346faa3bec0a6c6053c4b09c56124f676617568c98f49ac';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>\r\n\r\n"
   },
   "pages": {
     "index.html": {
